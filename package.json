@@ -9,7 +9,7 @@
   },
   "publisher": "Ghaz",
   "description": "",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "icon": "./images/cat_icon.png",
   "engines": {
     "vscode": "^1.81.0"
