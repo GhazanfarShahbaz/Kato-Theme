@@ -1,6 +1,11 @@
 {
   "name": "Kato",
   "displayName": "Kato",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GhazanfarShahbaz/Kato-Theme.git"
+  },
+  "publisher": "Ghaz",
   "description": "",
   "version": "0.0.1",
   "engines": {
