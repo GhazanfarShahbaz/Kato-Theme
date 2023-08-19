@@ -7,9 +7,18 @@
   },
   "publisher": "Ghaz",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.81.0"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Kato-color-theme.json"
+      }
+    ]
   },
   "categories": [
     "Themes"
@@ -2118,14 +2127,5 @@
     "editorGutter.commentRangeForeground": "#c5c5c5",
     "debugExceptionWidget.background": "#141414",
     "debugExceptionWidget.border": "#636363"
-  },
-  "contributes": {
-    "themes": [
-      {
-        "label": "Kato",
-        "uiTheme": "vs-dark",
-        "path": "./themes/Kato-color-theme.json"
-      }
-    ]
   }
 }
